@@ -1,4 +1,4 @@
-package com.ohgiraffers.section02.tcp;
+package com.ohgiraffers.section01.tcp;
 
 import java.io.*;
 import java.net.Socket;
